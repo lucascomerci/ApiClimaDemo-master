@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ApiClimaDemo</string>
+    <string name="agregar_ciudad">Agregar Ciudad</string>
+    <string name="refrescar">Actualizar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="temp_actual">Temperatura actual</string>
+    <string name="temp_min">Temperatura minima</string>
+    <string name="temp_max">Temperatura maxuma</string>
+    <string name="humedad">Humedad</string>
+    <string name="presion">Presion atmosferica</string>
+    <string name="centigrados">Centigrados</string>
+    <string name="ciudades_cargadas">Ciudades cargadas correctamente</string>
+    <string name="ciudad_eliminada">Ciudad eliminada</string>
+    <string name="ciudad_agregada">Ciudad agregada correctamente</string>
+</resources>

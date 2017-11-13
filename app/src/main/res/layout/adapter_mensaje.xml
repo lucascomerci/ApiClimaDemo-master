@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/id_lineal_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="15px"
+    android:paddingLeft="10px"
+    android:paddingTop="15px"
+
+
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:weightSum="1">
+
+    <TextView
+
+        android:id="@+id/pais"
+        android:layout_width="37dp"
+        android:layout_height="36dp"
+
+
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+
+        android:text="AR"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+
+
+    <TextView
+        android:id="@+id/ciudad"
+        android:layout_width="99dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:clickable="false"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="textPersonName"
+        android:text="Santa Rosa"
+        android:textSize="14sp"
+        android:textStyle="bold"
+
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="80dp"
+        android:layout_weight="0.75"
+        />
+
+    <TextView
+        android:id="@+id/temp"
+        android:layout_width="67dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_weight="0.22"
+        android:clickable="false"
+        android:elegantTextHeight="false"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+
+        android:inputType="textPersonName"
+        android:isScrollContainer="false"
+        android:text="23 centitrados"
+
+
+        android:textAlignment="viewEnd"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="40dp" />
+
+
+</LinearLayout>

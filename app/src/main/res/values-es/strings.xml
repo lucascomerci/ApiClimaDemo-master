@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima Mundial</string>
+    <string name="agregar_ciudad">Agregar ciudad</string>
+    <string name="refrescar">Actualizar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="humedad">Humedad</string>
+    <string name="presion">Presion</string>
+    <string name="temp_actual">Temperatura actual</string>
+    <string name="temp_max">Temperatura maxima</string>
+    <string name="temp_min">Temperatura minima</string>
+    <string name="centigrados">Centigrados</string>
+    <string name="ciudades_cargadas">Ciudades cargadas correctamente</string>
+    <string name="ciudad_eliminada">Ciudad eliminada</string>
+    <string name="ciudad_agregada">Ciudad agregada correctamente</string>
+</resources>

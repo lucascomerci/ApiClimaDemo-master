@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">World Climate</string>
+    <string name="agregar_ciudad">Add city</string>
+    <string name="refrescar">Reload</string>
+    <string name="cerrar">Close</string>
+    <string name="eliminar">Delete</string>
+    <string name="ciudad">City</string>
+    <string name="humedad">Humidity</string>
+    <string name="presion">Atmospheric pressure</string>
+    <string name="temp_actual">Actual temperature</string>
+    <string name="temp_max">Maximum temperature</string>
+    <string name="temp_min">Minimum temperature</string>
+    <string name="centigrados">centigrade</string>
+    <string name="ciudades_cargadas">Cities loaded correctly</string>
+    <string name="ciudad_eliminada">City removed</string>
+    <string name="ciudad_agregada">City added correctly</string>
+</resources>
